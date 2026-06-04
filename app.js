@@ -287,7 +287,7 @@ app.get('/api/courses/stats', async (req, res) => {
 });
 
 // ---------- Avvio del server ----------
-const PORT = 5000;
+const PORT = 5005;
 
 // Prima di avviare, assicuriamoci che il file dati esista
 (async () => {
